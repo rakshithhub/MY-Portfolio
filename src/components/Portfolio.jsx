@@ -1,45 +1,51 @@
-import ProjectCard from "./ProjectCard"
+import ProjectCard from "./ProjectCard";
+import InstaBlog from '../../src/assets/myImages/2.png';
+import FoodHub from '../../src/assets/myImages/1.png';
+import FirebaseAuth from '../../src/assets/myImages/3.png';
+import WeatherApp from '../../src/assets/myImages/4.png';
+import LearnTech from '../../src/assets/myImages/5.png';
+import TypingTest from '../../src/assets/myImages/6.png';
 
 const Portfolio = () => {
     const projects = [
         {
             id: 1,
-            imageLink: "../../src/assets/myImages/2.png",
+            imageLink: InstaBlog,
             proName: "insta-blog",
             demoLink: "react-blog-sand.vercel.app",
             codeLink: "https://github.com/rakshithhub/react-blog.git"
         },
         {
             id: 2,
-            imageLink: "../../src/assets/myImages/1.png",
+            imageLink: FoodHub,
             proName: "food-hub",
             demoLink: "food-hub-beta-delicious.vercel.app",
             codeLink: "https://github.com/rakshithhub/Food-Hub.git"
         },
         {
             id: 3,
-            imageLink: "../../src/assets/myImages/3.png",
+            imageLink: FirebaseAuth,
             proName: "firebase-auth",
             demoLink: "firebase-auth-bice.vercel.app",
             codeLink: "https://github.com/rakshithhub/Firebase-Auth.git"
         },
         {
             id: 4,
-            imageLink: "../../src/assets/myImages/4.png",
+            imageLink: WeatherApp,
             proName: "weather-app",
             demoLink: "weather-api-theta-lilac.vercel.app",
             codeLink: "https://github.com/rakshithhub/weatherApi.git"
         },
         {
             id: 5,
-            imageLink: "../../src/assets/myImages/5.png",
+            imageLink: LearnTech,
             proName: "learn-tech",
             demoLink: "react-tailwind-website-mocha.vercel.app",
             codeLink: "https://github.com/rakshithhub/ReactTailwind-website.git"
         },
         {
             id: 6,
-            imageLink: "../../src/assets/myImages/6.png",
+            imageLink: TypingTest,
             proName: "typing-test",
             demoLink: "typing-test-brown.vercel.app",
             codeLink: "https://github.com/rakshithhub/TypingTest.git"
