@@ -1,5 +1,5 @@
 import { FaArrowRight } from "react-icons/fa6";
-
+import Profile from "../../src/assets/myImages/profile.jpg"
 
 const Banner = () => {
 
@@ -15,7 +15,7 @@ const Banner = () => {
                     </button>
                 </div> 
                 <div className="text-white rounded-lg w-full">
-                    <img src="../../src/assets/myImages/profile.jpg" alt="img not found" className="w-44 sm:w-60 lg:w-80  mx-auto rounded-lg hover:scale-105 duration-300 bg-contain shadow-lg shadow-cyan-200"/>
+                    <img src={Profile} alt="img not found" className="w-44 sm:w-60 lg:w-80  mx-auto rounded-lg hover:scale-105 duration-300 bg-contain shadow-lg shadow-cyan-200"/>
                 </div>
             </div>
         </div>
