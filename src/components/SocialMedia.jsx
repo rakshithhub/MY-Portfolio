@@ -2,6 +2,7 @@ import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { TfiEmail } from "react-icons/tfi";
 import { FaRegAddressCard } from "react-icons/fa";
+import Resume from "../../src/assets/resume/Rakshit_Chau_resume.pdf";
 
 export const SocialMedia = () => {
 
@@ -47,7 +48,7 @@ export const SocialMedia = () => {
                 </>
             ),
             cusStyle: "rounded-br-lg",
-            sLink: "../../src/assets/resume/Rakshit_Chau_resume.pdf",
+            sLink: Resume,
             download: true
         }
     ]
