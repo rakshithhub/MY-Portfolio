@@ -17,6 +17,7 @@ const ProjectCard = ({imageLink, proName, demoLink, codeLink}) => {
             href={demoLink}
             className="text-xl font-bold text-cyan-400"
             target="_blank"
+            
           >
             Demo
           </a>

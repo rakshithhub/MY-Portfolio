@@ -12,42 +12,42 @@ const Portfolio = () => {
             id: 1,
             imageLink: InstaBlog,
             proName: "insta-blog",
-            demoLink: "react-blog-sand.vercel.app",
+            demoLink: "https://react-blog-sand.vercel.app/",
             codeLink: "https://github.com/rakshithhub/react-blog.git"
         },
         {
             id: 2,
             imageLink: FoodHub,
             proName: "food-hub",
-            demoLink: "food-hub-beta-delicious.vercel.app",
+            demoLink: "https://food-hub-beta-delicious.vercel.app/",
             codeLink: "https://github.com/rakshithhub/Food-Hub.git"
         },
         {
             id: 3,
             imageLink: FirebaseAuth,
             proName: "firebase-auth",
-            demoLink: "firebase-auth-bice.vercel.app",
+            demoLink: "https://firebase-auth-bice.vercel.app/",
             codeLink: "https://github.com/rakshithhub/Firebase-Auth.git"
         },
         {
             id: 4,
             imageLink: WeatherApp,
             proName: "weather-app",
-            demoLink: "weather-api-theta-lilac.vercel.app",
+            demoLink: "https://weather-api-theta-lilac.vercel.app/",
             codeLink: "https://github.com/rakshithhub/weatherApi.git"
         },
         {
             id: 5,
             imageLink: LearnTech,
             proName: "learn-tech",
-            demoLink: "react-tailwind-website-mocha.vercel.app",
+            demoLink: "https://react-tailwind-website-mocha.vercel.app/",
             codeLink: "https://github.com/rakshithhub/ReactTailwind-website.git"
         },
         {
             id: 6,
             imageLink: TypingTest,
             proName: "typing-test",
-            demoLink: "typing-test-brown.vercel.app",
+            demoLink: "https://typing-test-brown.vercel.app/",
             codeLink: "https://github.com/rakshithhub/TypingTest.git"
         }
 
