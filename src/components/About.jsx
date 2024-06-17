@@ -11,7 +11,7 @@ const About = () => {
                     </div>
 
                     <div className="">
-                        <p className="text-gray-500 text-xl sm:text-2xl text-justify capitalize">I am Rakshit Chaurasia. I have graduated in Bachelor of Computer Application (BCA). I am a full stack developer and have expertise in MERN stack ( mongoDB, Express Js, React Js, Node Js ) and have also done MERN stack training from Cetpa info tech. And I have 4 months work experience as intership as frontend developer in Akoode Technology Pvt Ltd and contribute various projects and tasks assigned by company. </p>
+                        <p className="text-gray-500 text-xl sm:text-2xl text-justify capitalize">I am Rakshit Chaurasia. I have graduated in Bachelor of Computer Application (BCA). I am a full stack developer and have expertise in MERN stack ( mongoDB, Express Js, React Js, Node Js ) and have also done MERN stack training from Cetpa info tech. And I have 6 months work experience as intership in Akoode Technology Pvt Ltd and contribute various projects and tasks assigned by company. </p>
                     </div>
                 </div>
             </div>
